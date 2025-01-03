@@ -67,6 +67,7 @@ require("neo-tree").setup({
     position = "current",
     mappings = {
       ["l"] = "open",
+      ["h"] = "close",
     },
   },
 })
